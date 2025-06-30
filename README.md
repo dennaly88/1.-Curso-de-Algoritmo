@@ -1,21 +1,22 @@
-
+*******************************************************
 DANNY JOSE JIMENEZ GUTIERREZ   
 TELEFONO :0424-281-44-55
 CORREO : DENNALY88@GMAIL.COM
 INGENIERO EN SISTEMAS 
+*******************************************************
 
+*******************************************************
+CUA , ESTADO MIRANDA 2025
+CURSO DE ALGORITMO Y PSEUDOCODIGO 
+DEV DEVELOPMENT    
+******************************************************
 
-//  CUA , ESTADO MIRANDA 2025
-//  CURSO DE ALGORITMO Y PSEUDOCODIGO 
-//  DEV DEVELOPMENT    
-
-
-
+*******************************************************
 Curso Completo de Algoritmo y Pseudocodigo 
-
+*******************************************************
 
 Material del Curso 
-
+**********************
 
 1. Basico
 2. Variables
@@ -30,4 +31,4 @@ Material del Curso
 11. Listas
 12. Matrices   
 
--------------------------------------------------------------------------------------------------------------------//
+***********************************************************************
